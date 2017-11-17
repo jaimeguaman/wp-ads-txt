@@ -1,0 +1,16 @@
+{
+	"name" : "wp-ads-txt",
+	"description" : "manage ADS.txt content from Admin",
+	"type" : "wordpress-plugin",
+  "authors" : [{
+    "name": "Jaime Guaman",
+    "email": "jaime@guaman.cl",
+    "homepage": "http://guaman.cl"
+  }],
+  "support":{
+    "issues": "https://github.com/jaimeguaman/wp-ads-txt/issues"
+  },
+  "require":{
+    "php": ">=5.5"
+  }
+}
